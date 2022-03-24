@@ -1,0 +1,14 @@
+footer {
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    z-index: 400;
+}
+
+footer .content {
+    background-color: #3b0e4a;
+    color: white;
+    height: 100px;
+    margin: 0;
+    width: 100%;
+}

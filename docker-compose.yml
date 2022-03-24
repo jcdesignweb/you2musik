@@ -1,0 +1,19 @@
+version: '3'
+services:
+  server:
+    build: 
+      context: ./
+      dockerfile: ./docker/Dockerfile.server
+    container_name: server_container
+    ports:
+      - 3000:3000
+
+  app:
+    build: 
+      context: ./
+      dockerfile: ./docker/Dockerfile.front
+    container_name: app_container
+    ports:
+      - 4200:80
+    links:
+      - server

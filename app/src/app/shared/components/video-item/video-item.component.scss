@@ -1,0 +1,52 @@
+.videoItem {
+    background-color: #c4868c;
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 100%;
+    padding: 10px;
+}
+
+.itemContent {
+    position: relative;
+    z-index: 1;
+
+    .duration {
+        background-color: black;
+        border: 5px solid black;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+        padding: 2px;
+        position: absolute;
+        right: 10px;
+        top: 5px;
+    }
+}
+
+.mat-spinner circle {
+    stroke: red !important;
+}
+
+.downloading {
+    position: absolute;
+    line-height: 280px;
+    width: 320px;
+    z-index: 2;
+
+    .background {
+        position: absolute;
+        height: 280px;
+        width: 320px;
+        opacity: 0.8;
+        background-color: #707070;
+        z-index: 100;
+    }
+}
+
+@media (max-width: 950px) and (min-width: 601px) {
+    .videoItem {
+        img {
+            width: 280px;
+        }
+    }
+}

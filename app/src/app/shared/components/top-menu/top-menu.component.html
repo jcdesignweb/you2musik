@@ -1,0 +1,25 @@
+<div class="row" id="top-menu">
+    <div class="container">
+        <div class="row no-margin">
+            <div class="col l4">
+
+                <a routerLink="/"><img src="./assets/img/logo.png" height="40" /></a>
+            </div>
+            
+            <div class="col l8">
+                <div class="row no-margin">
+                    <form>
+                    <input type="text" name="search" class="inpSearch" placeholder="The rolling stones" [(ngModel)]="searchModel" (keypress)="onKeypressEvent($event)" />
+           
+                    
+                    <a class="waves-effect waves-light btn" (click)="onBtnSearchClick()"><i class="material-icons">search</i></a>
+                    </form>
+                </div>
+            </div>
+            <a routerLink="/library">Library</a>
+
+        </div>
+        
+
+    </div>
+</div>

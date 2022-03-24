@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "adiNGm1N5xVrLoh1VzKID3Dqc-w",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "AR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NT1PIbfDQI8phogyUp-Q4Iy4VXM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vum1lMkXC0U"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-24T13:00:11Z",
+                "channelId": "UCFK-QZ_zfQBvH5idFojo7KQ",
+                "title": "Héctor Lavoe Sus Mejores Éxitos  || Héctor Lavoe Grandes Éxitos Completo",
+                "description": "Héctor Lavoe Sus Mejores Éxitos || Héctor Lavoe Grandes Éxitos Completo Héctor Lavoe Sus Mejores Éxitos || Héctor Lavoe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vum1lMkXC0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vum1lMkXC0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vum1lMkXC0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Salsa Música",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-24T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kjY9q4rsOKoDKJh9zOq_JwC7O50",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8n5RNPzpcVg"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-08T14:00:01Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - Juanito Alimaña (Live from the Palladium NYC)",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8n5RNPzpcVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8n5RNPzpcVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8n5RNPzpcVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-10-08T14:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jGG0Y7nwbmAGYekFsiqq_kJm-PI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BNo0vkEYWRc"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-13T15:32:29Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - El Cantante (salsa)",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BNo0vkEYWRc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BNo0vkEYWRc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BNo0vkEYWRc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-13T15:32:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r74M_SXhHaj-3d27jyFyBzpsgc8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LXExea8k57M"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-17T21:06:02Z",
+                "channelId": "UCVhn_vQKJDKgRc3ZvA8GU_w",
+                "title": "El Día de Mi Suerte   Hector Lavoe",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LXExea8k57M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LXExea8k57M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LXExea8k57M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luis Arcadio Riascos Capera",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-03-17T21:06:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qfCkQaxmW6pOfaKHpLFJyhlkf4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QbhS-p0uWNc"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-13T23:19:34Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "30 seconds",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QbhS-p0uWNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QbhS-p0uWNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QbhS-p0uWNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-13T23:19:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8XSa4ycnxSE07Oaz-3xZ6w8bteg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QBuueYkmYVI"
+            },
+            "snippet": {
+                "publishedAt": "2010-07-04T22:37:19Z",
+                "channelId": "UCzOCPXGb108F54AssHonV8Q",
+                "title": "Fania All Stars - Hector Lavoe - Mi Gente - Zaire, Africa 1974",
+                "description": "1974 in Zaire, Africa.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QBuueYkmYVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QBuueYkmYVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QBuueYkmYVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GravityLimited",
+                "liveBroadcastContent": "none",
+                "publishTime": "2010-07-04T22:37:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5tLZ_jdp7URHFeSDUmPou7Q2F2M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xaJUMcmTFpE"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-19T22:15:35Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe &amp; Willie Colon - Juanito Alimaña (Letras/Lyrics)",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Willie ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xaJUMcmTFpE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xaJUMcmTFpE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xaJUMcmTFpE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-03-19T22:15:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lbfeYKOECmtjywLdt3MyFXIyGWM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zi0aQ4PVAdI"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-26T19:43:11Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - Escarcha",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zi0aQ4PVAdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zi0aQ4PVAdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zi0aQ4PVAdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-03-26T19:43:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iP_6qk7CVzeuRR-RIrkiIa3jR5Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bLwi0HRcZhA"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-18T20:27:08Z",
+                "channelId": "UCWhwXoGjwZJpcFn3cEUuvSA",
+                "title": "Hector Lavoe - Juanito Alimaña",
+                "description": "La calle es una selva de cemento Y de fieras salvajes cómo no Ya no hay quien salga loco de contento Donde quiera te espera ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bLwi0HRcZhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bLwi0HRcZhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bLwi0HRcZhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DcIndustry",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-10-18T20:27:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TnKaPshqhe3zDwu67e_2WmqktHk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YtCQr4RQB9U"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-20T17:23:52Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Willie Colon &amp; Hector Lavoe - Que Lio",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Willie ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YtCQr4RQB9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YtCQr4RQB9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YtCQr4RQB9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-20T17:23:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "58k97dicGV9cWVWyaEh0ws_n0L8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rg4aB78TixU"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-10T21:18:07Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - Rompe Saraguey",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rg4aB78TixU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rg4aB78TixU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rg4aB78TixU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-10-10T21:18:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YYxz1mn95PC5Qsg8uDJfV8WRSKg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iAH7SiBDjBw"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-31T10:03:08Z",
+                "channelId": "UCqT_XfFbiIGUAU1I8XLnjog",
+                "title": "Loco",
+                "description": "Provided to YouTube by Universal Music Group Loco · Héctor Lavoe Strikes Back ℗ 1987 Craft Recordings, a division of Concord ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iAH7SiBDjBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iAH7SiBDjBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iAH7SiBDjBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Héctor Lavoe - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-31T10:03:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "21OvG_wrLet-gCwkqyPXt6Bo2Mk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PyLZYNB_kVs"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-27T17:00:08Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - El Cantante",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PyLZYNB_kVs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PyLZYNB_kVs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PyLZYNB_kVs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-27T17:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CCi7bzxfwhT5lWAyOC42cg3q3IY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wpoWayJvdxU"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-07T06:13:33Z",
+                "channelId": "UCDinRiPDXvVDsZyUB6ZL-Wg",
+                "title": "HECTOR LAVOE - La Ultima Entrevista (Parte 1) por: David Lugo",
+                "description": "HECTOR LAVOE - La Ultima Entrevista (Parte 1) en su apartamiento en Queens, New York.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wpoWayJvdxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wpoWayJvdxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wpoWayJvdxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DavidLugoMusic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-09-07T06:13:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cb-tikuRbz6VPTJXHcvPl_Bap64",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r2vEb1fHe-I"
+            },
+            "snippet": {
+                "publishedAt": "2008-12-16T19:13:56Z",
+                "channelId": "UCeJbUVRAl6VbA49bVSWrEuQ",
+                "title": "Hector Lavoe - Loco",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r2vEb1fHe-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r2vEb1fHe-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r2vEb1fHe-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paul Bouchier-Hayes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2008-12-16T19:13:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cT2BvydTY-5zUH4PEsodpkp1Bjk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7cvyIovPttA"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-16T21:28:54Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - Ella Mintio",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7cvyIovPttA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7cvyIovPttA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7cvyIovPttA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-16T21:28:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xF_8e69BVcGRqiLNd_v7jJBZkBQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Po9QL5vuGKE"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-30T04:29:19Z",
+                "channelId": "UCpTwY2szyRB0WaYBmLW8SpA",
+                "title": "Hector Lavoe-Todo Tiene Su Final",
+                "description": "Hector Lavoe-Todo Tiene Su Final Hector Lavoe-Todo Tiene Su Final Hector Lavoe-Todo Tiene Su Final Hector Lavoe-Todo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Po9QL5vuGKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Po9QL5vuGKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Po9QL5vuGKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yo Amo la Salsa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-04-30T04:29:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EfqTTIb2brEq7Au8QQyBrrYIdkk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pz650EkJFKc"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-27T10:23:41Z",
+                "channelId": "UCVusywkzJbH8soalxDfK0qA",
+                "title": "Hector Lavoe - Aguanile",
+                "description": "Salsa #Aguanile #HectorLavoe #Salsaconsabor #Fania ¡Ya estamos en #Telegram para que puedas tener acceso a nuestro ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pz650EkJFKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pz650EkJFKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pz650EkJFKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Salsa con Sabor",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-06-27T10:23:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ccNFfetUXhnQPKL9dABGGkHn2G4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-F9n6QYlFbk"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-18T17:00:23Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe &quot;Periodico De Ayer&quot; Live/En Vivo 2",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-F9n6QYlFbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-F9n6QYlFbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-F9n6QYlFbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-18T17:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "61P0jI7cyZdOGqcub3T2VDr8na0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5BPYFIWNehg"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-17T17:47:07Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Willie Colon &amp; Hector Lavoe - Aguanile",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Willie ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5BPYFIWNehg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5BPYFIWNehg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5BPYFIWNehg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-09-17T17:47:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YUnRk9AKWGDx84HvAAWdXxajuSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wmkwutsTZPs"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-12T22:31:26Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe &quot;El Rey De La Puntualidad&quot; Live/En Vivo",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wmkwutsTZPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wmkwutsTZPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wmkwutsTZPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-11-12T22:31:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VOWe9Q1YHN0u_Rw7Hc7dh6ueAys",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8XqYxwxLh_4"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-19T16:51:02Z",
+                "channelId": "UCvB1SuZHQM5P-IADoe0Fmcw",
+                "title": "Hector Lavoe - Ausencia",
+                "description": "Hector Lavoe el mejor exponente de este genero, como el ninguno.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8XqYxwxLh_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8XqYxwxLh_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8XqYxwxLh_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Djchikito balanta",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-06-19T16:51:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5g3F4O1QKm8DoyS0cG9vKge6QrM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r0wqu3f4NZY"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-21T15:00:36Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Héctor Lavoe - Amor Soñado (Letra Oficial)",
+                "description": "Disfruta de este tema cantado por El Cantante de Los Cantantes, Héctor Lavoe. Su canción \"Amor Soñado\" fue lanzado en su ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r0wqu3f4NZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r0wqu3f4NZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r0wqu3f4NZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-21T15:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0KXvbffB9gMm8hXfUAzF1-lVx0g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PChdip9xVts"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-20T00:58:50Z",
+                "channelId": "UC5UIMCij5OQ4JVPS-ngP1WA",
+                "title": "El ultimo &quot;concierto&quot; de Hector Lavoe (lamentables imagenes)",
+                "description": "El dia que todos le dieron la espalda a Hector Pérez Martinez.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PChdip9xVts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PChdip9xVts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PChdip9xVts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rafael Lopez",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-07-20T00:58:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T6wla9i7qmy-ry9YNeXwKcYqrfk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IOrp-OIvLJ4"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-31T23:49:43Z",
+                "channelId": "UCqT_XfFbiIGUAU1I8XLnjog",
+                "title": "Un Amor De La Calle",
+                "description": "Provided to YouTube by Universal Music Group Un Amor De La Calle · Héctor Lavoe La Voz ℗ 1975 Craft Recordings, a division ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IOrp-OIvLJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IOrp-OIvLJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IOrp-OIvLJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Héctor Lavoe - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-31T23:49:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IS-xUTcOX5lCkttJikJG-uY5Gm4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6rt8K7CijJE"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-28T22:56:56Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Héctor Lavoe – Paraíso de Dulzura (Letra Oficial)",
+                "description": "Disfruta de este tema cantado por El Cantante de Los Cantantes, Héctor Lavoe. Su canción \"Paraíso de Dulzura\" fue lanzado en ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6rt8K7CijJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6rt8K7CijJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6rt8K7CijJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-28T22:56:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uyvmwDSuzAx1EI0ak3md6oJulmM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5IGe26_cWL8"
+            },
+            "snippet": {
+                "publishedAt": "2009-08-08T10:35:17Z",
+                "channelId": "UChWUNwe2ShtVpNRzrdOMshg",
+                "title": "Hector Lavoe - Que cante mi gente",
+                "description": "Visita WwW.DescargaRosada.CoM manolitooh@hotmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5IGe26_cWL8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5IGe26_cWL8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5IGe26_cWL8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "manolitooh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-08-08T10:35:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ufACD1ggFoyh4k0hHO_xfoIeJpg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4E4E6AoO1gg"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-20T12:22:44Z",
+                "channelId": "UCPdbyHEzgrk2z8us7Zrbkmg",
+                "title": "Hector lavoe - el cantante (en vivo)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4E4E6AoO1gg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4E4E6AoO1gg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4E4E6AoO1gg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fuji salsa brava",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-20T12:22:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t2qJkkZcIJ7sj76xHrpGbPWl3nk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yIHtOyeq0Fk"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-11T21:07:29Z",
+                "channelId": "UCSyTDU0RK0VXvguOHZylcFQ",
+                "title": "Héctor Lavoe  sus exitos!    ! PUEDES DONAR  AQUI A ESTE CHIQUITO  CANAL DESDE AQUÍ !  Mil Gracias😘",
+                "description": "PUEDES DONAR AL CANAL DESDE AQUÍ !! Mil Graciasss   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yIHtOyeq0Fk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yIHtOyeq0Fk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yIHtOyeq0Fk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Simplemente nm",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-11T21:07:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kGcOx1NVFO1FrWcVRY8CcJX3yXU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IdL0hEEDp9o"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-25T13:06:03Z",
+                "channelId": "UC7GAWSY1wqm7Nu7j7TQfLDQ",
+                "title": "Héctor Lavoe - La fama",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IdL0hEEDp9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IdL0hEEDp9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IdL0hEEDp9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "edwinleonp",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-08-25T13:06:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i3i3eZHN9fl6gRHySi72ABgLl0s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ddqsivotKB8"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-13T23:19:34Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - Consejo De Oro",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ddqsivotKB8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ddqsivotKB8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ddqsivotKB8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-13T23:19:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Px2_EGZnbCYBJIvnClUxs-JgWJQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zc2U5k3237k"
+            },
+            "snippet": {
+                "publishedAt": "2007-08-07T19:57:57Z",
+                "channelId": "UCrP9ttfSYYBO01X5lke700w",
+                "title": "La última entrevista a Héctor Lavoe",
+                "description": "Más sobre Lavoe en laesquinadelcine.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zc2U5k3237k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zc2U5k3237k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zc2U5k3237k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lamilo19",
+                "liveBroadcastContent": "none",
+                "publishTime": "2007-08-07T19:57:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b1UKiZeftm5OJo1f1nQ5t1WmQu8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IrMu5FCm3zg"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-08T04:48:27Z",
+                "channelId": "UCPdbyHEzgrk2z8us7Zrbkmg",
+                "title": "Hector lavoe - soy vagabundo (en vivo)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IrMu5FCm3zg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IrMu5FCm3zg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IrMu5FCm3zg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fuji salsa brava",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-08T04:48:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RtWxCwbXCoZuLKCykf0CWdJkXzQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AOQepNLHHTU"
+            },
+            "snippet": {
+                "publishedAt": "2009-02-25T16:16:53Z",
+                "channelId": "UC377e-_sFGHK2upu0M7gzBw",
+                "title": "Siento - Hector Lavoe",
+                "description": "El más grande, el cantante de los cantantes...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AOQepNLHHTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AOQepNLHHTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AOQepNLHHTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rolando243",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-02-25T16:16:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DBAbhgUHuXh8Z-S7sl9jNUbZa9U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6IMZbF0ZOu8"
+            },
+            "snippet": {
+                "publishedAt": "2009-09-24T02:44:19Z",
+                "channelId": "UCNTmJAYCnztCPXz4Yut1LXg",
+                "title": "HectOr LavOe - SoñandO DespiertO",
+                "description": "soñe k algvn dia regresastes ....!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6IMZbF0ZOu8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6IMZbF0ZOu8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6IMZbF0ZOu8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MckokiTo17",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-09-24T02:44:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vwxRSM2ANPSMklRG03-Ng6KnyI4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8cFHnzMTYMk"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-20T18:26:34Z",
+                "channelId": "UCw2cTVw8Xd5n7yS-7PZg0Ig",
+                "title": "Héctor Lavoe - Triste Y Vacía (Letra)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8cFHnzMTYMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8cFHnzMTYMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8cFHnzMTYMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Música Buena",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-05-20T18:26:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E4HqFJsMbNshApVdSA88pPRvFaU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nShuNc2XkJI"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-02T18:45:39Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Willie Colon &amp; Hector Lavoe - Triste y Vacia",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Willie ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nShuNc2XkJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nShuNc2XkJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nShuNc2XkJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-02T18:45:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TzvwX0KWj_huJP_H4k_7uE0oy9s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jn-EKeSQH2w"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-04T10:35:27Z",
+                "channelId": "UCMe3L7g124n8fa6RfquHKHQ",
+                "title": "Hector Lavoe - El Cantante",
+                "description": "Homenaje a Hector Lavoe, El Cantante De Los Cantantes, La Voz. A videoclip made in After Effects. Many thanks to the actor ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jn-EKeSQH2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jn-EKeSQH2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jn-EKeSQH2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GuezAmsterdam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-06-04T10:35:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q-x5sxkcU8mZY5gaqEd60axx9rI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o38jRSz2ids"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-22T03:44:42Z",
+                "channelId": "UCGYCFw-RMJpylPQsTEVzLfw",
+                "title": "Yo Soy 21-08-13 HECTOR LAVOE Sorprende al Jurado con &quot;Triste y Vacia&quot; [Yo Soy 2013] COMPLETO",
+                "description": "YO SOY TEMPORADA FINAL. HECTOR LAVOE es Alberto Mejia e interpreta el tema \"Triste y Vacia\". Yo Soy Programa Completo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o38jRSz2ids/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o38jRSz2ids/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o38jRSz2ids/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheLugho",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-08-22T03:44:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hKzSOcJqg0y9K3m89LgcEpXOr2o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VZJF9TjuxlU"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-29T19:09:03Z",
+                "channelId": "UC6_GQgxNX_NOFRkXwos9dng",
+                "title": "HECTOR LAVOE CALLE LUNA CALLE SOL",
+                "description": "PONGA MUCHO OIDO EN ESTE BARRIO MUCHOS GUAPOS HAN MATAO...!!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VZJF9TjuxlU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VZJF9TjuxlU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VZJF9TjuxlU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "otroprecio",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-05-29T19:09:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mw-t2g0aAbDUlZPQ3KFaitYQzKE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VxK5bE7xrDE"
+            },
+            "snippet": {
+                "publishedAt": "2012-07-13T02:24:41Z",
+                "channelId": "UCZq9CtfSJ21yNZOOXx2kHvw",
+                "title": "YO SOY HECTOR LAVOE &quot; PERIODICO DE AYER &quot; [12/07/12] (9 /10). YO SOY PERU.",
+                "description": "Yo soy. SEGUNDA RONDA. COMPLETO. ALBERTO MEJIA es HECTOR LAVOE y canta \" PERIODICO DE AYER \". Yo soy peru.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VxK5bE7xrDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VxK5bE7xrDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VxK5bE7xrDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Talento Tube",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-07-13T02:24:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9ZznJw5Ydn8apnGSIL75t5gD3jk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k_GS4S0-Xg8"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-31T10:08:01Z",
+                "channelId": "UCqT_XfFbiIGUAU1I8XLnjog",
+                "title": "Soy Vagabundo",
+                "description": "Provided to YouTube by Universal Music Group Soy Vagabundo · Héctor Lavoe ¡Que Sentimiento! ℗ 1981 Craft Recordings, a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k_GS4S0-Xg8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k_GS4S0-Xg8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k_GS4S0-Xg8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Héctor Lavoe - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-31T10:08:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yb1gDWhUJksz5mOHXpzOLYZhcLk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3UnOY5CI2hI"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T20:06:14Z",
+                "channelId": "UCkCusUfdwVjyT86O_C3wP0w",
+                "title": "DUELO DE LEYENDAS WILLIE COLÓN - HÉCTOR LAVOE - RUBÉN BLADES",
+                "description": "DJS #PLENA #TBT #MUSICA #PANAMA #MIX #MUSICA #SALSA #SALSACLASICA #SOUNDMASTERPARTY #DISCOTECA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3UnOY5CI2hI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3UnOY5CI2hI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3UnOY5CI2hI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CALITO SOUND MASTER",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-02T20:06:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WICQk6xriaMqbNqRZHdnRG3Lf7w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uZwILB2hJj0"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-24T23:10:15Z",
+                "channelId": "UCjSHC0gFqU8bYWGeibebzWQ",
+                "title": "Hector Lavoe - LOCO LOQUERO LOCO Y CADA DIA MAS LOCO - LIVE -  Village Gate NY - 1987 Remasterizado.",
+                "description": "Vocal Singer remasterice & orchestra sound amplified.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uZwILB2hJj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uZwILB2hJj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uZwILB2hJj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jonny Suárez",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-24T23:10:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OU7t7RAl-9cZel52AbUXWRjZtZU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E0qKfQY2DkA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T00:33:06Z",
+                "channelId": "UCjSHC0gFqU8bYWGeibebzWQ",
+                "title": "Hector Lavoe - EL TODO PODEROSO - LIVE - (( Remasterizado ))",
+                "description": "La Clave Nigth Club. Miami, FL Viernes 19 De Febrero De 1988.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E0qKfQY2DkA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E0qKfQY2DkA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E0qKfQY2DkA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jonny Suárez",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T00:33:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XQ0gw5LDoGezcPtWSh3iYQipucw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ZfaWG6pgQI"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-17T16:01:52Z",
+                "channelId": "UC2Q_VszoFyZQ1ZuzqrA2_cA",
+                "title": "¿Quién es Marc Anthony? !Se le puede Comparar Con Hector lavoe podria ser una falta de respeto?",
+                "description": "Quién es Marc Anthony? Se le puede comparar Con Hector lavoe MARC ANTHONY. #MarcoAntonioMuñiz Nació el 16 de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ZfaWG6pgQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ZfaWG6pgQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ZfaWG6pgQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Panamá Entretenimiento HD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-17T16:01:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a47CqUKnraNR0M3whDb2tDYoG2E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P-4BpC0XFWE"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-08T01:49:20Z",
+                "channelId": "UCmOoIHc7HcPMuGXLndR9k4Q",
+                "title": "Hector lavoe metiendose perico💱💊🚬",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P-4BpC0XFWE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P-4BpC0XFWE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P-4BpC0XFWE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "XxDiegoDrosxX #701",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-08T01:49:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WRqFqtH6E2CFpeIPVTkeIG9AMtU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LDzkxRabGu0"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-02T21:31:11Z",
+                "channelId": "UCodoe79n4jov_YGp7wupYdQ",
+                "title": "Hector Lavoe - Tú no puedes conmigo (HQ)",
+                "description": "Tu No Puedes Conmigo Willie Colón - Hector Lavoe Cosa Nuestra (1970) Visite www.diezcerouno.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LDzkxRabGu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LDzkxRabGu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LDzkxRabGu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Diez Cero Uno Musik",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-10-02T21:31:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "arh4lupG5c__IaGoazn_TIUFG34",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MIzKUFnBzaE"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-02T23:00:13Z",
+                "channelId": "UCxZBqIALY6hE2fRTvoDxLiw",
+                "title": "Mentiras Salome - Héctor Lavoe",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MIzKUFnBzaE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MIzKUFnBzaE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MIzKUFnBzaE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TitoMan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-02T23:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eksFuyLg_kRW643-W-iveH_Bnhc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AwU2euCZ-8w"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-14T23:23:34Z",
+                "channelId": "UC7IEaZjQe3dI-vedB_qSomw",
+                "title": "El Cantante Hector Lavoe Letra",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AwU2euCZ-8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AwU2euCZ-8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AwU2euCZ-8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "roger ́s castillo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-07-14T23:23:34Z"
+            }
+        }
+    ]
+}

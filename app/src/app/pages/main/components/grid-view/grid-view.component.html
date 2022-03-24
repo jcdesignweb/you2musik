@@ -1,0 +1,25 @@
+<div class="wrapper">
+    <div class="item" *ngFor="let video of videos$ | async; let i = index">
+        <div *ngIf="video.snippet; then homeItem else locallyItem">
+
+        </div>
+
+        <ng-template #homeItem>
+            <video-item [title]="video.snippet.title" [videoImageUrl]="video.snippet.thumbnails.medium.url"
+                [videoId]="video.id.videoId" [isDownloading]="video.isDownloading"
+                [downloadingProgress]="video.downloadingProgress" [duration]="video.contentDetails?.duration ?? 'non-time'">
+
+            </video-item>
+        </ng-template>
+
+        <ng-template #locallyItem>
+            <video-item [title]="video.title" [videoImageUrl]="video.image_path" [videoId]="video.vid"
+                [isDownloading]="video.isDownloading" [downloadingProgress]="video.downloadingProgress"
+                [duration]="video.duration ?? 'non-time'">
+
+            </video-item>
+        </ng-template>
+
+    </div>
+
+</div>

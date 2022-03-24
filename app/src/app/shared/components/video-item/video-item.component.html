@@ -1,0 +1,17 @@
+<div class="videoItem" (click)="onItemClick()">
+    <div *ngIf="isDownloading" class="downloading">
+        <div class="background"></div>
+        <video-loader [progressNumber]="downloadingProgress" ></video-loader>
+
+    </div>
+    
+    <div class="itemContent">
+        <span class="duration">{{this.duration}}</span>
+        <img src="{{this.videoImageUrl}}" width="320" />
+        <br />
+        <h3>{{this.title}}</h3>
+        <br />
+        
+    </div>
+    
+</div>

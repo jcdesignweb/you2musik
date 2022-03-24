@@ -1,0 +1,232 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "adiNGm1N5xVrLoh1VzKID3Dqc-w",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "AR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NT1PIbfDQI8phogyUp-Q4Iy4VXM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vum1lMkXC0U"
+            },
+            "contentDetails": {
+                "caption": "false",
+                "contentRating": {},
+                "definition": "hd",
+                "dimension": "2d",
+                "duration": "11:11",
+                "licensedContent": true,
+                "projection": "rectangular"
+                
+            },
+            "snippet": {
+                "publishedAt": "2019-01-24T13:00:11Z",
+                "channelId": "UCFK-QZ_zfQBvH5idFojo7KQ",
+                "title": "Héctor Lavoe Sus Mejores Éxitos  || Héctor Lavoe Grandes Éxitos Completo",
+                "description": "Héctor Lavoe Sus Mejores Éxitos || Héctor Lavoe Grandes Éxitos Completo Héctor Lavoe Sus Mejores Éxitos || Héctor Lavoe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vum1lMkXC0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vum1lMkXC0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vum1lMkXC0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Salsa Música",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-24T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kjY9q4rsOKoDKJh9zOq_JwC7O50",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8n5RNPzpcVg"
+            },
+            "contentDetails": {
+                "caption": "false",
+                "contentRating": {},
+                "definition": "hd",
+                "dimension": "2d",
+                "duration": "11:11",
+                "licensedContent": true,
+                "projection": "rectangular"
+                
+            },
+            "snippet": {
+                "publishedAt": "2015-10-08T14:00:01Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - Juanito Alimaña (Live from the Palladium NYC)",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8n5RNPzpcVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8n5RNPzpcVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8n5RNPzpcVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-10-08T14:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jGG0Y7nwbmAGYekFsiqq_kJm-PI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BNo0vkEYWRc"
+            },
+            "contentDetails": {
+                "caption": "false",
+                "contentRating": {},
+                "definition": "hd",
+                "dimension": "2d",
+                "duration": "11:11",
+                "licensedContent": true,
+                "projection": "rectangular"
+                
+            },
+            "snippet": {
+                "publishedAt": "2014-11-13T15:32:29Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "Hector Lavoe - El Cantante (salsa)",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BNo0vkEYWRc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BNo0vkEYWRc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BNo0vkEYWRc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-13T15:32:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r74M_SXhHaj-3d27jyFyBzpsgc8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LXExea8k57M"
+            },
+            "contentDetails": {
+                "caption": "false",
+                "contentRating": {},
+                "definition": "hd",
+                "dimension": "2d",
+                "duration": "11:11",
+                "licensedContent": true,
+                "projection": "rectangular"
+                
+            },
+            "snippet": {
+                "publishedAt": "2018-03-17T21:06:02Z",
+                "channelId": "UCVhn_vQKJDKgRc3ZvA8GU_w",
+                "title": "El Día de Mi Suerte   Hector Lavoe",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LXExea8k57M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LXExea8k57M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LXExea8k57M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luis Arcadio Riascos Capera",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-03-17T21:06:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qfCkQaxmW6pOfaKHpLFJyhlkf4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QbhS-p0uWNc"
+            },
+            "contentDetails": {
+                "caption": "false",
+                "contentRating": {},
+                "definition": "hd",
+                "dimension": "2d",
+                "duration": "11:11",
+                "licensedContent": true,
+                "projection": "rectangular"
+                
+            },
+            "snippet": {
+                "publishedAt": "2014-11-13T23:19:34Z",
+                "channelId": "UC8ZpFsxodudZcJRBLq6aQTA",
+                "title": "30 seconds",
+                "description": "Subscribe to Fania: https://found.ee/fania-subscribe-yt-lat Fania newsletter: https://found.ee/fania-subscribe-newsletter-lat Hector ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QbhS-p0uWNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QbhS-p0uWNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QbhS-p0uWNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fania Records",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-13T23:19:34Z"
+            }
+        }
+    ]
+}
