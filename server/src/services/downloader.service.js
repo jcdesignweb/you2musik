@@ -31,7 +31,6 @@ const download = async (vid, socketId) => {
 
     return new Promise((resolve, reject) => {
         const command = `/usr/bin/python3 /usr/local/bin/youtube-dl --extract-audio -x --audio-format mp3 https://www.youtube.com/watch?v=${vid} -o ${audioFile}`
-        console.log("Starting Download")
         console.log("Executing command", command)
 
         const process = exec(command, (error, stdout, stderr) => {
@@ -60,30 +59,10 @@ const download = async (vid, socketId) => {
                 
                 Socket.emit(socketId, { progress, vid })
 
-                
                 if (progress === '100.0%') {
                     
                     storeSongOnDb(vid)
-        
-
                     resolve()
-
-                    /* MOVING FILE HERE!!!
-                    setTimeout(() => {
-                        console.log("moving file to the client")
-                        // here I move the file to the client side
-                        const serverFile = audioFile // `/var/www/html/YouMusik/server/mp3/${vid}.mp3`
-                        const clientFile = `/var/www/html/YouMusik/app/src/assets/mp3/${filename}`
-
-                        fs.rename(serverFile, clientFile, function (err) {
-                            if (err) {
-                                console.error(err)
-                                throw err
-                            }
-                            console.log('Successfully file moved! , file: ' + filename)
-                        })
-                    }, 2000)
-                    */
                 }
             }
         });

@@ -5,7 +5,6 @@ const youTube = new YouTube();
 const { YOUTUBE_KEY } = require('../config')
 youTube.setKey(YOUTUBE_KEY);
 
-
 class Youtube {
 
     /**
@@ -20,7 +19,6 @@ class Youtube {
         return new Promise((resolve, reject) => {
 
             youTube.search(filter, 6, async function (error, result) {
-                console.log("result.items", result)
                 if (error) {
                     reject(error)
                 }
