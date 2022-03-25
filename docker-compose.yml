@@ -1,5 +1,18 @@
 version: '3'
 services:
+  local:
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile.server
+    image: server-api
+    volumes:
+      - ./server:/usr/src/app/server
+    container_name: server_container_local
+    ports:
+      - '3000:3000'
+      - '9229:9229'
+    tty: true
+    command: npm run dev
   server:
     build: 
       context: ./
@@ -7,13 +20,19 @@ services:
     container_name: server_container
     ports:
       - 3000:3000
-
   app:
     build: 
       context: ./
       dockerfile: ./docker/Dockerfile.front
     container_name: app_container
     ports:
-      - 4200:80
+      - 4200:4200
     links:
       - server
+    command: npm start
+    volumes:
+       - ./app:/usr/src/app/app-ui
+       - /usr/src/app/app-ui/node_modules
+networks:
+  default:
+    name: you2musik

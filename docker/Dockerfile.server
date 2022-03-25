@@ -23,5 +23,3 @@ RUN youtube-dl -h
 COPY ./server . 
 RUN npm i
 EXPOSE 3000
-
-CMD ["npm", "start"]

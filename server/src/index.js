@@ -1,5 +1,6 @@
 const express = require('express')
 const cors = require('cors');
+const { version } = require('../package.json');
 
 const app = express();
 const server = require("http").Server(app);
@@ -11,21 +12,7 @@ socket.onConnection()
 
 const config = require('./config')
 
-/*
-
-const bodyParser = require('body-parser')
-
-// create application/json parser
-const jsonParser = bodyParser.json()
-
-// create application/x-www-form-urlencoded parser
-const urlencodedParser = bodyParser.urlencoded({ extended: false })
-*/
-
-app.use(cors({
-    origin: config.CLIENT_URL
-}));
-
+app.use(cors({ origin: config.CLIENT_URL }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
@@ -33,11 +20,10 @@ app.use(express.urlencoded({ extended: false }));
 app.use('/', router);
 
 app.get('/build', (req, res) => {
-    console.log("build v0.1")
-
-    res.json({ response: "version v0.1" })    
+    console.log(`build application version ${version}`)
+    res.json({ response: `build application version ${version}` })
 })
 
 server.listen(config.PORT, () => {
-    console.log(`Example app listening on port ${config.PORT}`)
+    console.log(`app listening on port ${config.PORT}`)
 })
