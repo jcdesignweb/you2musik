@@ -1,5 +1,3 @@
-
-
 class Song {
     constructor() {
         this.vid = ''

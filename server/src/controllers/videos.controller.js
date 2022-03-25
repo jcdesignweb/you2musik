@@ -1,8 +1,5 @@
 const videoListMock = require('../../resources/videos-short.json')
-const Song = require('../models/song.model')
 const videoService = require('../services/youtube.service')
-
-
 
 class Videos {
     static async getVideos(req, res) {
@@ -15,7 +12,6 @@ class Videos {
 
             if (filter) {
                 const videos = await videoService.getVideosByFilter(filter)
-                //console.log("Videos", videos)
                 res.send(videos)
             } else {
                 res.send(videoListMock)
